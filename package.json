@@ -1,6 +1,6 @@
 {
-  "name": "focus-trap",
-  "version": "6.2.2",
+  "name": "@patternfly/focus-trap",
+  "version": "4.0.0",
   "description": "Trap focus within a DOM node.",
   "main": "dist/focus-trap.js",
   "module": "dist/focus-trap.esm.js",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/focus-trap/focus-trap.git"
+    "url": "git+https://github.com/patternfly/focus-trap.git"
   },
   "keywords": [
     "focus",
@@ -54,9 +54,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/focus-trap/focus-trap/issues"
+    "url": "https://github.com/patternfly/focus-trap/issues"
   },
-  "homepage": "https://github.com/focus-trap/focus-trap#readme",
+  "homepage": "https://github.com/patternfly/focus-trap#readme",
   "dependencies": {
     "tabbable": "^5.1.4"
   },
